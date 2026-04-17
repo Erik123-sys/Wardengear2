@@ -1,0 +1,6 @@
+warden:
+  drop_chance: 0.10
+
+abilities:
+  lightning_count: 10
+  cooldown_seconds: 120
