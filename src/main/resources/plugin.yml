@@ -1,0 +1,4 @@
+name: WardenGear
+version: 1.0
+main: me.erik.wardengear.WardenGear
+api-version: 1.21
