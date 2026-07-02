@@ -1,0 +1,14 @@
+name: WardenGear
+version: "1.0.0"
+main: sk.erik.wardengear.WardenGear
+api-version: "1.21"
+
+author: Erik
+
+commands:
+  wardengear:
+    permission: wardengear.admin
+
+permissions:
+  wardengear.admin:
+    default: op
